@@ -7,5 +7,5 @@
 
 
 
-[Meme Site](https://vincentonepointone.github.io/](https://meme-site-login.ew.r.appspot.com/)
+[Meme Site](https://meme-site-login.ew.r.appspot.com/)
 
